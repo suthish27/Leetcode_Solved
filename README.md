@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/suthish27/Leetcode_Solved/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
