@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/suthish27/Leetcode_Solved/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0812-rotate-string) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
