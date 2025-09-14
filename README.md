@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/suthish27/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/2383-add-two-integers) |
 | [2748-calculate-delayed-arrival-time](https://github.com/suthish27/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
