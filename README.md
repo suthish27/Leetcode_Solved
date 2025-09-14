@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/suthish27/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 | [2748-calculate-delayed-arrival-time](https://github.com/suthish27/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/suthish27/Leetcode_Solved/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
