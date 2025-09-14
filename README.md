@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suthish27/Leetcode_Solved/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [0742-to-lower-case](https://github.com/suthish27/Leetcode_Solved/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
