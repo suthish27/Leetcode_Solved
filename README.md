@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/suthish27/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/suthish27/Leetcode_Solved/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3371-harshad-number](https://github.com/suthish27/Leetcode_Solved/tree/master/3371-harshad-number) |
 ## Bit Manipulation
 |  |
 | ------- |
