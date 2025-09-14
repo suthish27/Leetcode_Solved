@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
