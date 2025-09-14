@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/suthish27/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
