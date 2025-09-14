@@ -14,9 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
