@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/suthish27/Leetcode_Solved/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/suthish27/Leetcode_Solved/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suthish27/Leetcode_Solved/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/suthish27/Leetcode_Solved/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suthish27/Leetcode_Solved/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
