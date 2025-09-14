@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/suthish27/Leetcode_Solved/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 | [2748-calculate-delayed-arrival-time](https://github.com/suthish27/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/suthish27/Leetcode_Solved/tree/master/2752-sum-multiples) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/suthish27/Leetcode_Solved/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 ## Brainteaser
 |  |
