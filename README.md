@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/suthish27/Leetcode_Solved/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/suthish27/Leetcode_Solved/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
