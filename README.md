@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Math
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/suthish27/Leetcode_Solved/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0812-rotate-string) |
+| [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
