@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/2383-add-two-integers) |
+| [2748-calculate-delayed-arrival-time](https://github.com/suthish27/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/suthish27/Leetcode_Solved/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
 |  |
