@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 ## String
 |  |
