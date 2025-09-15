@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/suthish27/Leetcode_Solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/suthish27/Leetcode_Solved/tree/master/0326-power-of-three) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/suthish27/Leetcode_Solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/suthish27/Leetcode_Solved/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
