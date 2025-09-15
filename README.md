@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suthish27/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
+| [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
