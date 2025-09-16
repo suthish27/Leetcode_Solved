@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suthish27/Leetcode_Solved/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
