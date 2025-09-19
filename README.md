@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/suthish27/Leetcode_Solved/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/suthish27/Leetcode_Solved/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/suthish27/Leetcode_Solved/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/suthish27/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/suthish27/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/suthish27/Leetcode_Solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
