@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/suthish27/Leetcode_Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/suthish27/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
