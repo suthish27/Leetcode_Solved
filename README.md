@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/suthish27/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
