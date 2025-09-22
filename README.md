@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
