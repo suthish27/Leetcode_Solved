@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suthish27/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/suthish27/Leetcode_Solved/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/suthish27/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suthish27/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suthish27/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/suthish27/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/suthish27/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
