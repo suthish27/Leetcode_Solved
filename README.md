@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suthish27/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/suthish27/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suthish27/Leetcode_Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suthish27/Leetcode_Solved/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/suthish27/Leetcode_Solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/suthish27/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0263-ugly-number) |
@@ -253,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suthish27/Leetcode_Solved/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/suthish27/Leetcode_Solved/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/suthish27/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/suthish27/Leetcode_Solved/tree/master/2491-smallest-even-multiple) |
