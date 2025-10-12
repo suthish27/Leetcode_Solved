@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suthish27/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/suthish27/Leetcode_Solved/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/suthish27/Leetcode_Solved/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0507-perfect-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/suthish27/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/suthish27/Leetcode_Solved/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
 ## Recursion
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/suthish27/Leetcode_Solved/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/suthish27/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/suthish27/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/suthish27/Leetcode_Solved/tree/master/0520-detect-capital) |
