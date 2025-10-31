@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0812-rotate-string) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
+| [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
+| [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 ## Counting
 |  |
 | ------- |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
