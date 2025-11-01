@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/suthish27/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/suthish27/Leetcode_Solved/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/suthish27/Leetcode_Solved/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/suthish27/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/suthish27/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suthish27/Leetcode_Solved/tree/master/0053-maximum-subarray) |
+| [0233-number-of-digit-one](https://github.com/suthish27/Leetcode_Solved/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
