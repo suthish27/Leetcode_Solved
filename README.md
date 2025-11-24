@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/suthish27/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
