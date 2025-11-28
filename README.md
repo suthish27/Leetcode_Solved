@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/suthish27/Leetcode_Solved/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
