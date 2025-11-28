@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suthish27/Leetcode_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/suthish27/Leetcode_Solved/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 ## Counting
 |  |
