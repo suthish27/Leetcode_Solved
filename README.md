@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suthish27/Leetcode_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/suthish27/Leetcode_Solved/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suthish27/Leetcode_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suthish27/Leetcode_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
