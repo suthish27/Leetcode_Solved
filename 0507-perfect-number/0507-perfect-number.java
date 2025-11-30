@@ -6,10 +6,6 @@ class Solution {
                 count+=i;
             }
         }
-        if(count==num){
-            return true;
-        }else{
-            return false;
-        }
+        return count==num?true:false;
     }
 }
