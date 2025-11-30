@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
+| [2810-faulty-keyboard](https://github.com/suthish27/Leetcode_Solved/tree/master/2810-faulty-keyboard) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suthish27/Leetcode_Solved/tree/master/2288-count-operations-to-obtain-zero) |
+| [2810-faulty-keyboard](https://github.com/suthish27/Leetcode_Solved/tree/master/2810-faulty-keyboard) |
 ## Enumeration
 |  |
 | ------- |
