@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suthish27/Leetcode_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
