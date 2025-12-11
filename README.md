@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/suthish27/Leetcode_Solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/suthish27/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/suthish27/Leetcode_Solved/tree/master/1086-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/suthish27/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/suthish27/Leetcode_Solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
