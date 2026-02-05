@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
