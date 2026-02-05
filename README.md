@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
+| [1929-concatenation-of-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/suthish27/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/suthish27/Leetcode_Solved/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/suthish27/Leetcode_Solved/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suthish27/Leetcode_Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/suthish27/Leetcode_Solved/tree/master/2810-faulty-keyboard) |
