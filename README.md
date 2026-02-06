@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/suthish27/Leetcode_Solved/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/suthish27/Leetcode_Solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suthish27/Leetcode_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/suthish27/Leetcode_Solved/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/suthish27/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/suthish27/Leetcode_Solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suthish27/Leetcode_Solved/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/suthish27/Leetcode_Solved/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/suthish27/Leetcode_Solved/tree/master/0672-bulb-switcher-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suthish27/Leetcode_Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suthish27/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/suthish27/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suthish27/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/suthish27/Leetcode_Solved/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/suthish27/Leetcode_Solved/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
