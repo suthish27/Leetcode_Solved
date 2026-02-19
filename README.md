@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2942-find-words-containing-character](https://github.com/suthish27/Leetcode_Solved/tree/master/2942-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suthish27/Leetcode_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/suthish27/Leetcode_Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/suthish27/Leetcode_Solved/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/suthish27/Leetcode_Solved/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3210-find-the-encrypted-string) |
 | [3462-vowels-game-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
