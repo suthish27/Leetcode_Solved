@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suthish27/Leetcode_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3866-first-unique-even-element](https://github.com/suthish27/Leetcode_Solved/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3866-first-unique-even-element](https://github.com/suthish27/Leetcode_Solved/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3866-first-unique-even-element](https://github.com/suthish27/Leetcode_Solved/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
