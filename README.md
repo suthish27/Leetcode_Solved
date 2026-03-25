@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suthish27/Leetcode_Solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/suthish27/Leetcode_Solved/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2942-find-words-containing-character](https://github.com/suthish27/Leetcode_Solved/tree/master/2942-find-words-containing-character) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suthish27/Leetcode_Solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suthish27/Leetcode_Solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suthish27/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/suthish27/Leetcode_Solved/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suthish27/Leetcode_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suthish27/Leetcode_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/suthish27/Leetcode_Solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/suthish27/Leetcode_Solved/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
