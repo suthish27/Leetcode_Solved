@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suthish27/Leetcode_Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1408-string-matching-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suthish27/Leetcode_Solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/suthish27/Leetcode_Solved/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/suthish27/Leetcode_Solved/tree/master/0917-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/suthish27/Leetcode_Solved/tree/master/1297-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suthish27/Leetcode_Solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/suthish27/Leetcode_Solved/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/suthish27/Leetcode_Solved/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1408-string-matching-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
