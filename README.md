@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suthish27/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suthish27/Leetcode_Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/suthish27/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3745-maximize-expression-of-three-elements](https://github.com/suthish27/Leetcode_Solved/tree/master/3745-maximize-expression-of-three-elements) |
 | [3866-first-unique-even-element](https://github.com/suthish27/Leetcode_Solved/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suthish27/Leetcode_Solved/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/suthish27/Leetcode_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suthish27/Leetcode_Solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/suthish27/Leetcode_Solved/tree/master/2502-sort-the-people) |
+| [3745-maximize-expression-of-three-elements](https://github.com/suthish27/Leetcode_Solved/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/suthish27/Leetcode_Solved/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/suthish27/Leetcode_Solved/tree/master/2507-number-of-common-factors) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/suthish27/Leetcode_Solved/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3745-maximize-expression-of-three-elements](https://github.com/suthish27/Leetcode_Solved/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suthish27/Leetcode_Solved/tree/master/0011-container-with-most-water) |
+| [3745-maximize-expression-of-three-elements](https://github.com/suthish27/Leetcode_Solved/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
