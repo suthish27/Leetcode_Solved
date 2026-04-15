@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/suthish27/Leetcode_Solved/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/suthish27/Leetcode_Solved/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suthish27/Leetcode_Solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/suthish27/Leetcode_Solved/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/suthish27/Leetcode_Solved/tree/master/1929-concatenation-of-array) |
